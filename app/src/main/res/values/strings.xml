@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fiscalização em Campo</string>
+    <string name="sync">Sincronizar</string>
+    <string name="sync_pending">Sincronizar (%1$d pendentes)</string>
+    <string name="sync_report">%1$d enviadas, %2$d com falha (serão reenviadas)</string>
+    <string name="empty">Nenhuma fiscalização registrada.\nToque em \"Nova fiscalização\" para começar.</string>
+    <string name="new_inspection">Nova fiscalização</string>
+    <string name="establishment">Estabelecimento</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="approved">Aprovado</string>
+    <string name="approved_remarks">Aprovado com ressalvas</string>
+    <string name="interdicted">Interditado</string>
+    <string name="notes">Observações / irregularidades</string>
+    <string name="location_waiting">📍 Obtendo localização…</string>
+    <string name="location_value">📍 %1$.5f, %2$.5f</string>
+    <string name="save">Salvar (offline)</string>
+    <string name="item_details">%1$s • %2$s</string>
+</resources>
